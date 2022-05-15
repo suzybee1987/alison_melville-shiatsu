@@ -96,6 +96,7 @@ ul.navbar-nav.navbar-brand {
 @media only screen and (max-width: 600px) {
     .hero {
         min-height: 100vh;
+        width:100%;
         padding-top: 100px;
         background: url("../images/conscious-design-unsplash.jpg") no-repeat center center fixed;
         -webkit-background-size: cover;
