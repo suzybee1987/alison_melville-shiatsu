@@ -12,7 +12,7 @@ The goal of the website will be to interact with existing and potential clients 
 
 The site must contain all information required to complete these goals and site visitors will most likely be comparing with other similar services in the local area so must stand out and show everything the user would want to see.
 
-Link to [live site](https://suzybee1987.github.io/ms1-ali-shiatsu/index.html)
+Link to [live site](https://suzybee1987.github.io/alison_melville_business/)
 
 ## **Contents**
 
