@@ -93,6 +93,18 @@ ul.navbar-nav.navbar-brand {
     background-size: cover;
     background-attachment: fixed;
 }
+@media only screen and (max-width: 600px) {
+    .hero {
+        min-height: 100vh;
+        padding-top: 100px;
+        background: url("../images/conscious-design-unsplash.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+}
 
 .jumbotron-index {
     margin: 20px;
