@@ -83,17 +83,21 @@ ul.navbar-nav.navbar-brand {
 
 /* hero image */
 
-.hero {
+.hero-section {
     min-height: 100vh;
-    padding-top: 100px;
+}
+
+.hero {
     background: url("../images/conscious-design-unsplash.jpg") no-repeat top center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-attachment: fixed;
+    height: 100%;
+    margin-top: 50px;
 }
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
     .hero {
         min-height: 100vh;
         width:100%;
@@ -105,10 +109,10 @@ ul.navbar-nav.navbar-brand {
         background-size: cover;
         background-attachment: fixed;
     }
-}
+} */
 
 .jumbotron-index {
-    margin: 20px;
+    margin: 120px 20px 20px;
     position: absolute;
     text-align: center;
     padding: 2rem 1rem;
@@ -128,7 +132,7 @@ ul.navbar-nav.navbar-brand {
 }
 
 .shiatsu {
-    padding: 40px 0px 50px 0px;
+    padding: 60px 0px 50px 0px;
 }
 
 /* About Shin Tai  */
