@@ -97,6 +97,18 @@ ul.navbar-nav.navbar-brand {
     margin-top: 50px;
 }
 
+@media only screen and (min-device-width: 320px) and (max-device-width: 700px) and (-webkit-min-device-pixel-ratio: 2) {
+    .hero {
+        background: url("../images/conscious-design-unsplash.jpg") no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        min-width:100%;
+        margin-top: 50px;
+    }
+}
+
 .jumbotron-index {
     margin: 120px 20px 20px;
     position: absolute;
